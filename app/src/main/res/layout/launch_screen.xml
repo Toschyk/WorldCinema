@@ -22,11 +22,11 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/robotoslabblack"
         android:text="@string/textview"
         android:textColor="@color/red"
         android:textSize="50sp"
-        android:fontFamily="sans-serif-condensed"
-        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteX="40dp"
         tools:layout_editor_absoluteY="454dp"
         tools:text="WorldCinema" />
 </androidx.constraintlayout.widget.ConstraintLayout>
