@@ -2,4 +2,14 @@
     <string name="app_name">WorldCinema</string>
     <string name="worldcinema">WorldCinema</string>
     <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="Войти">Войти</string>
+    <string name="Регистрация">Регистрация</string>
+    <string name="e_mail">E-mail</string>
+    <string name="Пароль">Пароль</string>
+    <string name="Главныйэкран">Главный экран</string>
+    <string name="Main">Главный экран</string>
+    <string name="pass">Пароль</string>
+    <string name="doublepass">Подтвердите пароль</string>
+    <string name="e_maill">E-mail</string>
 </resources>
